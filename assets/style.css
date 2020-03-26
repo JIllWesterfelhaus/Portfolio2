@@ -1,0 +1,29 @@
+body {background-color: rgb(231, 185, 185);}
+
+.contact {
+    margin: 20px; 
+    background-color: seashell; 
+    width: 300px; 
+    padding: 30px; 
+}
+
+.title {
+  background-color: seashell;
+  margin-bottom: 30px;
+  padding-left: 40px;
+}
+
+ h1 {
+    font-size: 5vw;
+   display: block;
+   background-color: seashell;
+   padding: 5px;
+   text-align: center;
+  
+
+}
+
+@media screen and (max-width: 462px) {
+  h1: {column-span: :active; 
+  }
+}
