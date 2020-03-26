@@ -14,15 +14,13 @@ body {background-color: rgb(231, 185, 185);}
 }
 
  h1 {
-    font-size: 5vw;
+   font-size: 5vw;
    display: block;
    background-color: seashell;
    padding: 5px;
    text-align: center;
   
-
 }
-
 @media screen and (max-width: 462px) {
   h1: {column-span: :active; 
   }
