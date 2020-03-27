@@ -1,8 +1,9 @@
-body {background-color: rgb(231, 185, 185);}
+body {background-color: #f2b1b7;}
+
 
 
 .title {
-  background-color: seashell;
+  background-color:  #f2b1b7;
   margin-bottom: 30px;
   padding-left: 40px;
 }
@@ -10,7 +11,7 @@ body {background-color: rgb(231, 185, 185);}
  h1 {
    font-size: 5vw;
    display: block;
-   background-color: seashell;
+   background-color:##f2b1b7;
    padding: 5px;
    text-align: center;
   
