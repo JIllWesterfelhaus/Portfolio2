@@ -19,4 +19,6 @@ h3 {
   padding-bottom: 1em;
 }
 
- 
+.card .card-body {
+  border-bottom: 2em solid #f6cabc ;
+}
