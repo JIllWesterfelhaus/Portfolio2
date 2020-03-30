@@ -11,4 +11,4 @@ This project is complete.
 This project was built with HTML, CSS, and Bootstrap. 
 
 ## Credits
-I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte!! app.
+I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
