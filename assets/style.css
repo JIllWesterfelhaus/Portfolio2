@@ -34,3 +34,9 @@ padding: 3%;
   padding-right: 15%;
 }}
 
+@media only screen and (max-width: 482px) {
+.aboutMe {
+padding-left: 20%;
+padding-right: 20%;
+
+}}
