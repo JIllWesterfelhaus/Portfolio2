@@ -28,14 +28,9 @@ font-size: 1.5em;
 padding: 3%;
 }
 
-@media only screen and (max-width: 614px) {
-#jillhomepage {
-  width: 50%;
+  @media only screen and (max-width: 660px) {
+.aboutMe {
+  padding-left: 15%;
+  padding-right: 15%;
 }}
-
-
-@media only screen and (min-width: 615px) {
-  #jillhomepage {
-    width: 40%;
-  }}
 
