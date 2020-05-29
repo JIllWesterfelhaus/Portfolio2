@@ -26,5 +26,16 @@ h3 {
 .aboutMe {
 font-size: 1.5em;
 padding: 3%;
-
 }
+
+@media only screen and (max-width: 614px) {
+#jillhomepage {
+  width: 50%;
+}}
+
+
+@media only screen and (min-width: 615px) {
+  #jillhomepage {
+    width: 40%;
+  }}
+
