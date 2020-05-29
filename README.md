@@ -10,5 +10,9 @@ This project is complete.
 ## Tech Used
 This project was built with HTML, CSS, and Bootstrap. 
 
+## URL of deployed portfolio
+
+https://jillwesterfelhaus.github.io/Portfolio2/
+
 ## Credits
 I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
