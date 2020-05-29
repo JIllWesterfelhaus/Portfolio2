@@ -16,3 +16,5 @@ https://jillwesterfelhaus.github.io/Portfolio2/
 
 ## Credits
 I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
+
+I would also like to thank Jules Lazar and Mohmed Vaid for the work they did on the My Pantry app.
