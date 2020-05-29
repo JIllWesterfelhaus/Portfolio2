@@ -17,7 +17,8 @@ This project is in the public domain per https://unlicense.org/.
 
 https://jillwesterfelhaus.github.io/Portfolio2/
 
-Screenshot of home page:
+
+
 ![home page portfolio](assets/images/home%20page%20portfolio.png)
 
 ## Credits
