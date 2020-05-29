@@ -1,5 +1,5 @@
 # Portfolio2
-This is an assignment for Northwestern University Coding Bootcamp. It consists of a revised and updated portfolio showing my work.
+This is an assignment for Northwestern University Coding Bootcamp. It consists of a revised and updated portfolio showing my work from the first four months of the bootcamp.
 
 ## Motivation
 The purpose of this project is to update Professional Materials, show recent work,  and build towards becoming employer competitive.
