@@ -2,7 +2,7 @@
 This is an assignment for NU Coding Bootcamp. It consists of a revised and updated portfolio showing my work for the Northwestern University Coding Bootcamp.
 
 ## Motivation
-The purpose of this project is to update Professional Materials and build towards becoming employer competitive.
+The purpose of this project is to update Professional Materials, show recent work,  and build towards becoming employer competitive.
 
 ## Build Status
 This project is complete.
@@ -16,6 +16,9 @@ This project is in the public domain per https://unlicense.org/.
 ## URL of deployed portfolio
 
 https://jillwesterfelhaus.github.io/Portfolio2/
+
+Screenshot of home page:
+![home page portfolio](assets/images/home%20page%20portfolio.png)
 
 ## Credits
 
