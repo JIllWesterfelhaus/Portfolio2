@@ -25,6 +25,6 @@ https://jillwesterfelhaus.github.io/Portfolio2/
 
 I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
 
-I would also like to thank Jules Lazar and Mohmed Vaid for the work they did on the My Pantry app.
+I would also like to thank Jules Lazar and Mohmed Vaid for the awesome work they did on the My Pantry app.
 
 I would like to thank my tutor, Daniel Masters, for his patience and persistence while working with me during the coding bootcamp. 
